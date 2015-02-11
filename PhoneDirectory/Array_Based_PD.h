@@ -48,7 +48,7 @@ public:
 		*/
 	std::string remove_entry(const std::string& name);
 
-	/** Writes the contents of the directory to the data file.
+	/* Writes the contents of the directory to the data file.
 	 */
 	void save();
 
